@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srujanwankhade&label=Profile%20views&color=0e75b6&style=flat" alt="srujanwankhade" /> </p>
 
-<p align="left"> <a href="[https://x.com/SrujanWank" target="blank"><img src="https://img.shields.io/twitter/follow/SrujanWank?logo=twitter&style=for-the-badge" alt="SrujanWankhade" /></a> </p>
 
 - 🔭 I’m currently working on **app development**
 
