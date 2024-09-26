@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srujanwankhade&label=Profile%20views&color=0e75b6&style=flat" alt="srujanwankhade" /> </p>
 
-<p align="left"> <a href="https://twitter.com/srujanwankhade" target="blank"><img src="https://img.shields.io/twitter/follow/srujanwankhade?logo=twitter&style=for-the-badge" alt="srujanwankhade" /></a> </p>
+<p align="left"> <a href="[https://x.com/SrujanWank" target="blank"><img src="https://img.shields.io/twitter/follow/srujanwankhade?logo=twitter&style=for-the-badge" alt="srujanwankhade" /></a> </p>
 
 - 🔭 I’m currently working on **app development**
 
@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/srujanwankhade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srujanwankhade" height="30" width="40" /></a>
+<a href="https://x.com/SrujanWank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srujanwankhade" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/srujan-wankhade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srujan-wankhade" height="30" width="40" /></a>
 <a href="https://instagram.com/srujan_wankhade_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srujan_wankhade_12" height="30" width="40" /></a>
 </p>
