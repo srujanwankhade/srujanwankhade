@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **srujanwank@gmail.com**
 
-- ⚡ Fun fact **I watch a Anime a lot**
+- ⚡ Fun fact **I'm a Huge Anime Nerd 🤓 **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
