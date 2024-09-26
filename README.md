@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **app development**
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **web development, Python...**
 
 - 💬 Ask me about **C++, C, PC Components**
 
