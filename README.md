@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **srujanwank@gmail.com**
 
-- ⚡ Fun fact **I'm a Huge Anime Nerd 🤓 **
+- ⚡ Fun fact **My favorite anime is One piece. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
